@@ -77,6 +77,7 @@ This is an academic project for SRMIST. For issues or suggestions, please contac
 ## License
 
 This project is licensed under the MIT License.
+
 Academic Project - SRMIST
 
 ---
