@@ -80,4 +80,5 @@ Academic Project - SRMIST
 
 ---
 
-Developed for the SRMIST student community by Nipun Thakuria.
+Developed for the SRMIST student community by Nipun Thakuria and Yusra Ali
+
